@@ -36,6 +36,7 @@ function Section({ title,description,leftBtnText,rightBtnText,backgroundImg}) {
 export default Section
 
 const Wrap =styled.div`
+z-index:
       width:100vw;
       height:100vh;
       background-size:cover;
